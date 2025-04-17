@@ -1,0 +1,20 @@
+{
+  "name": "grantwritersai",
+  "version": "1.0.0",
+  "description": "An AI-powered grant writing and management application for nonprofits and organizations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pburtoncmb/GrantWritersai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pburtoncmb/GrantWritersai/issues"
+  },
+  "homepage": "https://github.com/pburtoncmb/GrantWritersai#readme"
+}
